@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=d1ccc0&height=300&section=header&text=JeongEun%20Bae&fontSize=80&fontColor=2d3436)
 
-### Hi there 👋
+### <center>Hi there 👋</center>
 
 <!--
 **JeongEunBae/JeongEunBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
