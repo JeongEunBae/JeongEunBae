@@ -8,8 +8,8 @@ I want to contribute to the development of the future. :blush::heart:
 - 🌱 Learning Deep Learning, Machine Learning, Computer Vision
 </br>
 
-:clipboard: **PortFoilo**
-
+:clipboard: **PortFoilo**</br>
+[**JeongEun's PortFoilo**](../Portfoilo)
 <!--
 **JeongEunBae/JeongEunBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
