@@ -6,7 +6,6 @@ I want to contribute to the development of the future. :blush::heart:
 
 -  :mortar_board: DongEui-University Student
 - 🌱 Learning Deep Learning, Machine Learning, Computer Vision
-</br>
 
 #### :clipboard: PortFolio</br>
 [**JeongEun's PortFolio**](../../../Portfolio)&nbsp;&nbsp;&nbsp;:rewind: **Click Here!**
