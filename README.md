@@ -1,8 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=d1ccc0&height=300&section=header&text=JeongEun%20Bae&fontSize=80&fontColor=2d3436)
 
-<p align="center">
-<h3>Hi there 👋</h3>
-</p>
+### Hi there 👋,
+I'm JeongEun Bae. I'm a senior at **DongEui-University**.</br>
+I want to contribute to the development of the future. :blush::heart:
+
+-  :mortar_board: DongEui-University Student
+- 🌱 Learning Deep Learning, Machine Learning, Computer Vision
+</br>
+
+:clipboard: **PortFoilo**
+
 <!--
 **JeongEunBae/JeongEunBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
