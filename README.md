@@ -9,7 +9,7 @@ I want to contribute to the development of the future. :blush::heart:
 </br>
 
 :clipboard: **PortFolio**</br>
-[**JeongEun's PortFolio**](/Portfolio)
+[**JeongEun's PortFolio**](../../Portfolio)
 <!--
 **JeongEunBae/JeongEunBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
