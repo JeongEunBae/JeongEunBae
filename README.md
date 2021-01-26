@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=d1ccc0&height=300&section=header&text=JeongEun%20Bae&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=d1ccc0&height=300&section=header&text=JeongEun%20Bae&fontSize=80&fontColor=2d3436)
 
 ### Hi there 👋
 
