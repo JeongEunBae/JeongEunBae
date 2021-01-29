@@ -48,10 +48,10 @@ Techs that I've used more than once
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp;
  
-#### :blue_heart: GitHub Stats
+### :blue_heart: GitHub Stats
 ![JeongEun's github stats](https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite)
 
-#### :purple_heart: Algorithm Level
+### :purple_heart: Algorithm Level
 <a href ="https://solved.ac/jeongeun"><img src ="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"></a>
 
 <!--
