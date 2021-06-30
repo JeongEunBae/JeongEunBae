@@ -5,7 +5,7 @@ I'm JeongEun Bae. I'm a senior at **Dong-Eui University**.</br>
 I want to contribute to the development of the future. :blush::heart:
 
 -  :mortar_board: Dong-Eui University Student
-- 🌱 Learning Deep Learning, Machine Learning, Computer Vision
+- 🌱 Learning Deep Learning, Machine Learning, Computer Vision,
 
 #### :clipboard: PortFolio</br>
 [**JeongEun's PortFolio**](../../../Portfolio)&nbsp;&nbsp;&nbsp;:rewind: **Click Here!**
