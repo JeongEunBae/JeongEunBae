@@ -4,7 +4,8 @@
 I'm JeongEun Bae. I'm a MS student at **HanYang University** in Seoul Campus.</br>
 I want to contribute to the development of the future. :blush::heart:
 
--  :mortar_board: Dong-Eui University Student
+-  :mortar_board: B.S. in Computer Software Engineering, Dong-Eui University, Busan, Korea
+-  :mortar_board: M.S. student in Computer Science & Engineering, HanYang University, Seoul, Korea
 - 🌱 Learning Deep Learning, Machine Learning, Computer Vision, Natural Language Processing
 
 #### :clipboard: PortFolio</br>
