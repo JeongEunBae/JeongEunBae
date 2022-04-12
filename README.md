@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=d1ccc0&height=300&section=header&text=JeongEun%20Bae&fontSize=80&fontColor=2d3436)
 
 ### Hi there 👋,
-I'm JeongEun Bae. I'm a senior at **Dong-Eui University**.</br>
+I'm JeongEun Bae. I'm a MS student at **HanYang University in Seoul Campus**.</br>
 I want to contribute to the development of the future. :blush::heart:
 
 -  :mortar_board: Dong-Eui University Student
