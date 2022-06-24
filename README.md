@@ -6,7 +6,7 @@ I want to contribute to the development of the future. :blush::heart:
 
 -  :mortar_board: B.S. in Computer Software Engineering, Dong-Eui University, Busan, Korea
 -  :mortar_board: M.S. student in Computer Science & Engineering, HanYang University, Seoul, Korea
-- 🌱 Learning Deep Learning, Machine Learning, Computer Vision, Natural Language Processing
+- 🌱 Learning Deep Learning, Machine Learning, Computer Vision, Emotion recogniton of Body movement 
 
 #### :clipboard: PortFolio</br>
 [**JeongEun's PortFolio**](../../../Portfolio)&nbsp;&nbsp;&nbsp;:rewind: **Click Here!**
