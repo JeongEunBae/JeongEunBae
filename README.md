@@ -17,11 +17,11 @@ I want to contribute to the development of the future. :blush::heart:
 
 ### Experience 👑
 
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
+
 - 🎓 Dong-Eui University , Computer Software Engineering (B.S) (2018.03 ~ 2022.02)
 - 🔥 ETRI (한국전자통신연구원), 도시·공간ICT Lab. Summer Intern (2021.07 ~ 2021.08)
 - 🎓 Hanyang University , Computer and Software Engineering (M.S) (2022.03 ~)
-
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
 
 ### Tech Skills ⚒️
 
