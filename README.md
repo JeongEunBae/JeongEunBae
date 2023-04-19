@@ -29,12 +29,12 @@ I want to contribute to the development of the future. :blush::heart:
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">&nbsp;
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite"/>
+
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Unity-FFFFF?style=for-the-badge&logo=unity&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>&nbsp;
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite"/>
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;
