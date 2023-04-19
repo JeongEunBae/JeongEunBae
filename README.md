@@ -7,12 +7,25 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongEunBae&count_bg=%2384C0FD&title_bg=%235E5E5E&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB+HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
+</div>
+
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
 
 ### Hi there 👋,
 
 I'm JeongEun Bae. I'm a MS student at **HanYang University** in Seoul Campus.</br>
 I want to contribute to the development of the future. :blush::heart:
-<!--
+
+### Experience
+
+- 🎓 Dong-Eui University , Computer Software Engineering (B.S) (2018.03 ~ 2022.02)
+- 🔥 ETRI
+- 🎓 Hanyang University , Computer and Software Engineering (M.S) (2022.03 ~)
+-  ESTsoft, Sales team Intern (2018.07~2018.12)
+- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
+-  Naver boostcamp 6th, Web Fullstack (2021.07~2021.12)
+- 🍫 Kakao Enterprise, AI Lab & Service FE (2022.02~ ) 
+
 :mortar_board: B.S. in Computer Software Engineering, Dong-Eui University, Busan, Korea
 :mortar_board: M.S. student in Computer Science & Engineering, HanYang University, Seoul, Korea
 🌱 Learning Human-Computer Interaction, Emotion recogniton of Body movement 
@@ -57,12 +70,23 @@ Techs that I've used more than once
 - **OS**  </br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp;
- 
-### :blue_heart: GitHub Stats
-![JeongEun's github stats](https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite)
 
-### :purple_heart: Algorithm Level 
-[![Jeongeun's Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun)](https://solved.ac/jeongeun)
+<div align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite"/>
+ 
+</div>
+
+
+<!-- ![JeongEun's github stats](https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite)-->
+
+
+
+ 
+
+ <!--[![Jeongeun's Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun)](https://solved.ac/jeongeun)-->
+ <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeongeun)](https://solved.ac/jeongeun)-->
+
+
 
 <!--
 **JeongEunBae/JeongEunBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
