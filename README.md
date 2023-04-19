@@ -73,5 +73,4 @@ I want to contribute to the development of the future. :blush::heart:
 <a href="https://velog.io/@jeongeunbae"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
 <img align="left" src="https://velog-readme-stats.vercel.app/api?name=jeongeunbae"/>
-<img align="left" src="https://velog-readme-stats.vercel.app/api?name=jeongeunbae&slug=회고-2022년에서-2023년으로"/>
 
