@@ -19,10 +19,10 @@ I want to contribute to the development of the future. :blush::heart:
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
 
-- 🍫 IM4U 정보영재교육센터 (Education of Computer), Teacher (2018.02 ~ 2019.04)
-- 🎓 Dong-Eui University , Computer Software Engineering (B.S) (2018.03 ~ 2022.02)
-- 🔥 ETRI (한국전자통신연구원), 도시·공간ICT Lab. Summer Intern (2021.07 ~ 2021.08)
-- 🎓 Hanyang University , Computer and Software Engineering (M.S) (2022.03 ~)
+- 🍫 IM4U 정보영재교육센터 (Education of Computer) `Teacher` (2018.02 ~ 2019.04)
+- 🎓 Dong-Eui University , Computer Software Engineering `B.S` (2018.03 ~ 2022.02)
+- 🔥 ETRI (한국전자통신연구원), 도시·공간ICT Lab. `Intern` (2021.07 ~ 2021.08)
+- 🎓 Hanyang University , Computer and Software Engineering `M.S` (2022.03 ~)
 
 ### Tech Skills ⚒️
 
