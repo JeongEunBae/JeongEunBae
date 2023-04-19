@@ -4,17 +4,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=81BFDB&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jeongeun's+GitHub!👻)](https://git.io/typing-svg)
  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongEunBae&count_bg=%2384C0FD&title_bg=%235E5E5E&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB+HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ---
 
-
 ### Hi there 👋,
-<!--
+
 I'm JeongEun Bae. I'm a MS student at **HanYang University** in Seoul Campus.</br>
 I want to contribute to the development of the future. :blush::heart:
-
--  :mortar_board: B.S. in Computer Software Engineering, Dong-Eui University, Busan, Korea
--  :mortar_board: M.S. student in Computer Science & Engineering, HanYang University, Seoul, Korea
-- 🌱 Learning Human-Computer Interaction, Emotion recogniton of Body movement 
+<!--
+:mortar_board: B.S. in Computer Software Engineering, Dong-Eui University, Busan, Korea
+:mortar_board: M.S. student in Computer Science & Engineering, HanYang University, Seoul, Korea
+🌱 Learning Human-Computer Interaction, Emotion recogniton of Body movement 
 
 #### :clipboard: PortFolio</br>
 [**JeongEun's PortFolio**](../../../Portfolio)&nbsp;&nbsp;&nbsp;:rewind: **Click Here!**
