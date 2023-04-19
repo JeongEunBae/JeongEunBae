@@ -36,14 +36,13 @@ I want to contribute to the development of the future. :blush::heart:
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite"/>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Kinect-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Azure Kinect-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus&logoColor=white"/></a>&nbsp;
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite"/>
-
 <img src="https://img.shields.io/badge/Vive-4E56A6?style=for-the-badge&logo=Vive&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp;
