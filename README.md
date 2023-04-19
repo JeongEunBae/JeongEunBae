@@ -15,17 +15,15 @@ I'm **JeongEun Bae.**
 I'm a Master Student at **HanYang University** in Seoul Campus.</br>
 I want to contribute to the development of the future. :blush::heart:
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
-
 ### Experience 👑
 
 - 🎓 Dong-Eui University , Computer Software Engineering (B.S) (2018.03 ~ 2022.02)
 - 🔥 ETRI (한국전자통신연구원), 도시·공간ICT Lab. Summer Intern (2021.07 ~ 2021.08)
 - 🎓 Hanyang University , Computer and Software Engineering (M.S) (2022.03 ~)
 
-### Tech Skills ⚒️
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite"/>
+### Tech Skills ⚒️
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">&nbsp;
@@ -38,6 +36,9 @@ I want to contribute to the development of the future. :blush::heart:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"/></a>&nbsp;
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite"/>
+
 <img src="https://img.shields.io/badge/Kinect-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Azure Kinect-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus&logoColor=white"/></a>&nbsp;
@@ -54,8 +55,6 @@ I want to contribute to the development of the future. :blush::heart:
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>&nbsp;
 
----
-
 ### Contact 📞
 <a href="mailto:je_0922@naver.com">
 <img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>&nbsp;
@@ -66,6 +65,8 @@ I want to contribute to the development of the future. :blush::heart:
 <a href="https://github.com/JeongEunBae">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
 </a>
+
+---
 
 ### Recent Dev's log 🖥️ 
 <a href="https://velog.io/@jeongeunbae"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
