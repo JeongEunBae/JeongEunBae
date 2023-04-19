@@ -35,10 +35,10 @@ I want to contribute to the development of the future. :blush::heart:
 <img src="https://img.shields.io/badge/Unity-FFFFF?style=for-the-badge&logo=unity&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>&nbsp;
-
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>&nbsp;
+
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Kinect-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Azure Kinect-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"/></a>&nbsp;
