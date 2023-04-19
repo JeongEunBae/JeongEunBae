@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=d1ccc0&height=300&section=header&text=JeongEun%20Bae&fontSize=80&fontColor=2d3436)
+![header](https://capsule-render.vercel.app/api?type=waving&color=81BFDB&text=&animation=twinkling&height=80)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=81BFDB&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jeongeun's+GitHub!👻)](https://git.io/typing-svg)
+
+<div align="left">
+ 
+---
+
 
 ### Hi there 👋,
 I'm JeongEun Bae. I'm a MS student at **HanYang University** in Seoul Campus.</br>
