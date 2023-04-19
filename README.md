@@ -17,7 +17,7 @@ I want to contribute to the development of the future. :blush::heart:
 
 ### Experience 👑
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
+<a href="https://solved.ac/profile/jeongeun"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/></a>
 
 - 🍫 IM4U 정보영재교육센터 (Education of Computer) `Teacher` (2018.02 ~ 2019.04)
 - 🎓 Dong-Eui University , Computer Software Engineering `B.S` (2018.03 ~ 2022.02)
