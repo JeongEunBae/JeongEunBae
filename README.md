@@ -9,96 +9,67 @@
 ---
 </div>
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
-
 ### Hi there 👋,
 
-I'm JeongEun Bae. I'm a MS student at **HanYang University** in Seoul Campus.</br>
+I'm **JeongEun Bae.**
+I'm a Master Student at **HanYang University** in Seoul Campus.</br>
 I want to contribute to the development of the future. :blush::heart:
 
-### Experience
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
+
+### Experience 👑
 
 - 🎓 Dong-Eui University , Computer Software Engineering (B.S) (2018.03 ~ 2022.02)
-- 🔥 ETRI
+- 🔥 ETRI (한국전자통신연구원), 도시·공간ICT Lab. Summer Intern (2021.07 ~ 2021.08)
 - 🎓 Hanyang University , Computer and Software Engineering (M.S) (2022.03 ~)
--  ESTsoft, Sales team Intern (2018.07~2018.12)
-- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
--  Naver boostcamp 6th, Web Fullstack (2021.07~2021.12)
-- 🍫 Kakao Enterprise, AI Lab & Service FE (2022.02~ ) 
 
-:mortar_board: B.S. in Computer Software Engineering, Dong-Eui University, Busan, Korea
-:mortar_board: M.S. student in Computer Science & Engineering, HanYang University, Seoul, Korea
-🌱 Learning Human-Computer Interaction, Emotion recogniton of Body movement 
+### Tech Skills ⚒️
 
-#### :clipboard: PortFolio</br>
-[**JeongEun's PortFolio**](../../../Portfolio)&nbsp;&nbsp;&nbsp;:rewind: **Click Here!**
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite"/>
 
-#### :computer: Tech Stack :computer:
-Techs that I've used more than once
-</br>
-- **Languages** </br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp; 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Unity-FFFFF?style=for-the-badge&logo=unity&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Kinect-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Azure Kinect-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Vive-4E56A6?style=for-the-badge&logo=Vive&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp; 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp;
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>&nbsp;
 
-- **Techs( Framework )** </br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=black"/></a>&nbsp;
+---
 
-- **Tools**  </br>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=black"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=white"/></a>&nbsp;
+### Contact 📞
+<a href="mailto:je_0922@naver.com">
+<img src="https://img.shields.io/badge/NAVER MAIL-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>&nbsp;
+</a>
+<a href="mailto:jeongeun0922@hanyang.ac.kr">
+<img src="https://img.shields.io/badge/Hanyang Univ. MAIL-1D2475?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp;
+</a>
+<a href="https://github.com/JeongEunBae">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
+</a>
 
-- **OS**  </br>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp;
+### Recent Dev's log 🖥️ 
+<a href="https://velog.io/@jeongeunbae"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
-<div align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite"/>
- 
-</div>
+<img align="left" src="https://velog-readme-stats.vercel.app/api?name=jeongeunbae"/>
+<img align="left" src="https://velog-readme-stats.vercel.app/api?name=jeongeunbae&slug=회고-2022년에서-2023년으로"/>
 
-
-<!-- ![JeongEun's github stats](https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=graywhite)-->
-
-
-
- 
-
- <!--[![Jeongeun's Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun)](https://solved.ac/jeongeun)-->
- <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeongeun)](https://solved.ac/jeongeun)-->
-
-
-
-<!--
-**JeongEunBae/JeongEunBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
