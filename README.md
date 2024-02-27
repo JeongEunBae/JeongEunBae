@@ -15,18 +15,19 @@
 I'm **JeongEun Bae.**
 I'm a Master Student at **HanYang University** in Seoul Campus.</br>
 I want to contribute to the development of the future. :blush::heart:
--->
+
 ### Experience 👑
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
+
 
 - 🏢 LG Electronics (LG전자) CTO 부문,  Software Platform R&D Lab. `연구원 (Associcate)` (2024.02 ~)
 - 🎓 Hanyang University , Computer Science `M.S` (2022.03 ~ 2024.02)
 - 🔥 ETRI (한국전자통신연구원), 도시·공간ICT Lab. `Intern` (2021.07 ~ 2021.08)
 - 🎓 Dong-Eui University , Computer Software Engineering `B.S` (2018.03 ~ 2022.02)
 
+-->
 
-
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
 
 ### Tech Skills ⚒️
 
@@ -34,7 +35,7 @@ I want to contribute to the development of the future. :blush::heart:
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">&nbsp;
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=default"/>
+<!--img align="right" src="https://github-readme-stats.vercel.app/api?username=JeongEunBae&show_icons=true&theme=default"/-->
 
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Unity-FFFFF?style=for-the-badge&logo=unity&logoColor=white">&nbsp;
