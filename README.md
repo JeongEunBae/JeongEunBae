@@ -9,12 +9,13 @@
 ---
 </div>
 
+<!--
 ### Hi there 👋,
 
 I'm **JeongEun Bae.**
 I'm a Master Student at **HanYang University** in Seoul Campus.</br>
 I want to contribute to the development of the future. :blush::heart:
-
+-->
 ### Experience 👑
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
@@ -66,6 +67,9 @@ I want to contribute to the development of the future. :blush::heart:
 </a>
 <a href="mailto:jeongeun0922@hanyang.ac.kr">
 <img src="https://img.shields.io/badge/Hanyang Univ. MAIL-1D2475?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp;
+</a>
+<a href="mailto:jungeun922.bae@lge.com">
+<img src="https://img.shields.io/badge/LG Electronics. MAIL-A50034?style=for-the-badge&logo=lg&logoColor=white"/></a>&nbsp;
 </a>
 <a href="https://github.com/JeongEunBae">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
