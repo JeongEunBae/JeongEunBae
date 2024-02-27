@@ -19,9 +19,10 @@ I want to contribute to the development of the future. :blush::heart:
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongeun"/>
 
-- 🎓 Dong-Eui University , Computer Software Engineering `B.S` (2018.03 ~ 2022.02)
+<!-- - 🎓 Dong-Eui University , Computer Software Engineering `B.S` (2018.03 ~ 2022.02) -->
 - 🔥 ETRI (한국전자통신연구원), 도시·공간ICT Lab. `Intern` (2021.07 ~ 2021.08)
-- 🎓 Hanyang University , Computer and Software Engineering `M.S` (2022.03 ~)
+- 🎓 Hanyang University , Computer and Software Engineering `M.S` (2022.03 ~ 2024.02)
+- 🏢 LG Electronics(LG전자) CTO 부문,  Software Platform R&D Lab. `연구원 (Associcate)` (2024.02 ~)
 
 ### Tech Skills ⚒️
 
